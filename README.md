@@ -1,2 +1,2 @@
-# Tarea1ArguedasSolis
+# Tarea1ArguedasArroyoBrenesSolis
 Tarea 1 Microprocesadores y Microcontroladores
