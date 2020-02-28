@@ -20,6 +20,6 @@ def F3(a, b):
     if type(a) != int or type(b) != int:
         return("ERROR: Tipo de dato incorrecto")
     elif a - b < 0:
-        return("ERROR: El resultado no pertenece a los números naturales")
+        return("ERROR: Número no natural")
     else:
         return (a - b)
